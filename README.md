@@ -46,8 +46,8 @@ National Coding Competition<br/>
 <td align="center" width="25%">
 <img src="https://img.shields.io/badge/Publicity%20Lead-0a2a3a?style=for-the-badge" /><br/><br/>
 <strong>IEEE Namal Branch</strong><br/>
-Public Visibility Head<br/>
-<sub>Jun 2025 – Present</sub>
+Vice Chair-Person<br/>
+<sub>Sep 2026 – Present</sub>
 </td>
 <td align="center" width="25%">
 <img src="https://img.shields.io/badge/Cohort%204%20Alumni-0a2a1a?style=for-the-badge" /><br/><br/>
