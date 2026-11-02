@@ -44,7 +44,7 @@ National Coding Competition<br/>
 <sub>IEEE Namal Student Branch</sub>
 </td>
 <td align="center" width="25%">
-<img src="https://img.shields.io/badge/Vice%20Chair-Person-0a2a3a?style=for-the-badge" /><br/><br/>
+<img src="https://img.shields.io/badge/Vice%20Chair-0a2a3a?style=for-the-badge" /><br/><br/>
 <strong>IEEE Namal Branch</strong><br/>
 Vice Chair-Person<br/>
 <sub>Sep 2026 – Present</sub>
